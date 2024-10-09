@@ -1,6 +1,6 @@
 # eComWeb | Front-End E-Commerce Website
 
-![eComWeb](/images/ecomimage.png)
+![eComWeb](/images/ecomimage .png)
 
 
 ## Table of Contents
