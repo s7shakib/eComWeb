@@ -5,9 +5,6 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 **eComWeb** is a responsive front-end e-commerce website built using React, Redux, Tailwind CSS, and TypeScript. This project focuses on providing a seamless and intuitive user experience, with dynamic product displays and efficient navigation. It is designed to be scalable and easily maintainable.
